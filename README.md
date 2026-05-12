@@ -22,6 +22,7 @@ Desktop Application developed using C# لإدارة صالات البليارد�
 * ADO.NET
 * SQL Server
 * Windows Forms
-<img width="1080" height="608" alt="photo_2026-05-13_00-55-33" src="https://github.com/user-attachments/assets/4740d153-2314-42df-adcb-c0c2fd98419e" />
+<img width="1327" height="728" alt="لقطة الشاشة 2026-05-13 010220" src="https://github.com/user-attachments/assets/cc10ffd6-b884-47ce-b41b-fd742f7728f8" />
+
 <img width="1080" height="813" alt="photo_2026-05-13_00-55-13" src="https://github.com/user-attachments/assets/5c920138-2365-4105-a032-181d2f354c03" />
 
